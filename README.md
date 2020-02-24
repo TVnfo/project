@@ -1,1 +1,1 @@
-# project
+TVnfo "Television Information" tvguide and schedule website. We provide accurate information about best series and movies around the world. TVnfo prefers quality over quantity and website simplicity for best user experience. TVnfo website updated daily by our volunteer editors who have many years of entertainment industry experience. Privacy and security of our users are very important to us. We do not use any third-party analytics or advertisements. TVnfo project is only possible thanks to our loyal donors.
